@@ -83,4 +83,6 @@ public class NewCourseActivity extends AppCompatActivity {
         // displaying a toast message after adding the data
         Toast.makeText(this, "Course has been saved to Room Database. ", Toast.LENGTH_SHORT).show();
     }
+
+//    Test
 }
